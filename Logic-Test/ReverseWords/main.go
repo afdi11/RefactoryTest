@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ReverseWords/transform"
+	"RefactoryTest/Logic-Test/ReverseWords/transform"
 	"bufio"
 	"fmt"
 	"os"
